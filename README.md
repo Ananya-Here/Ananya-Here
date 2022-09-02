@@ -3,7 +3,7 @@
 I am a Bachleor of Technology student in Computer Science and Engineering at [VIT Bhopal University](https://vitbhopal.ac.in/). Apart from that I am seasonal developer who loves writing clean algorithms on real world problems and contributing to open source.
 
 - 💻 Currently working on Genomic Sequence Ananlysis.
-- 👨🏽‍💻 Currently growing my skillset in Machine Learning and Python.
+- 👩‍💻 Currently growing my skillset in Machine Learning and Python.
 
  **I am open to**:
 
