@@ -1,4 +1,4 @@
-### Hi there, I'm Shreyash Mall 👋
+### Hi there, I'm Ananya Singh 👋
 
 I am a Bachleor of Technology student in Computer Science and Engineering at [VIT Bhopal University](https://vitbhopal.ac.in/). Apart from that I am seasonal developer who loves writing clean algorithms on real world problems and contributing to open source.
 
@@ -66,7 +66,7 @@ I am a Bachleor of Technology student in Computer Science and Engineering at [VI
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ananya-Here&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shreyash-Mall" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-Here&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[<img src="https://img.shields.io/badge/Resume-Shreyash%20Mall-blue" />](https://drive.google.com/file/d/1UxT7Nz7ysWApJSFLGECFj4hQOEBNkPXu/view?usp=sharing)
+[<img src="https://img.shields.io/badge/Resume-Ananya%20Singh-blue" />](https://drive.google.com/file/d/1-n11Q3fcf-hNSZ6318PW1W68TUDTxsrP/view?usp=sharing)
 
  
  Credits: Ananya Singh
